@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+
+.about-page {
+    text-align: center;
+    font-family: "Roboto", system-ui;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.clock-container  {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+    font-size: 40px;
+
+
+    
+
+}
+.clock {
+    backdrop-filter: blur(10px);
+    margin: 20px auto;
+    text-shadow: 3px 1px 2px grey;
+}
