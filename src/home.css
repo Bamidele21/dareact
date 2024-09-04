@@ -24,7 +24,7 @@
     margin-bottom: 20px;
 }
 
-@media screen and (max-width: 800px) and  (min-width: 601p){
+@media screen and (min-width: 900px)and (main-width: 950px) {
   .home-css {
     font-size: 20px;
     height: 70vh;
