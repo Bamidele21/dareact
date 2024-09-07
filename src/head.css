@@ -18,10 +18,10 @@ header {
   background-color: #ee946e;
   background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
   border: 3px ;
-  border-style: solid;
-  border-color: rgb(50, 53, 51);
   margin: 0;
   text-shadow: 2px 2px 2px black;
+  box-shadow: 3px 2px 6px black;
+
 }
 
 .heading h1 {
